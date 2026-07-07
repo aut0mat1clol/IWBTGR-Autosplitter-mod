@@ -11,7 +11,7 @@ startup
 
     // General
     settings.Add("start", true, "Start on New Game");
-    settings.Add("reset_title", false, "Reset when returning to title");
+    settings.Add("reset_title", true, "Reset when returning to title");
 
     // Orb / boss split settings
     settings.Add("orbs", true, "Orb / Boss Splits");
