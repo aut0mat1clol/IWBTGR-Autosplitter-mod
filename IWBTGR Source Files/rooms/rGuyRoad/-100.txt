@@ -1,0 +1,5 @@
+bgBigBlackBroccoli,32,0,0,0,426,608,0,1,1,4294967295
+bgBigBlackBroccoli,704,0,0,0,426,608,0,1,1,4294967295
+bgBigBlackBroccoli,1685,0,0,0,426,608,0,1,1,4294967295
+bgBigBlackBroccoli,2111,0,0,0,426,608,0,1,1,4294967295
+bgBigBlackBroccoli,2656,0,0,0,426,608,0,1,1,4294967295

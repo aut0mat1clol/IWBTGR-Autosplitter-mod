@@ -1,0 +1,1 @@
+str=lang("dev5")

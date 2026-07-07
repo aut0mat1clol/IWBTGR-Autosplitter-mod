@@ -1,0 +1,7 @@
+sprite=sprGlAsshole
+visible=0
+solid=0
+persistent=0
+depth=201
+parent=
+mask=

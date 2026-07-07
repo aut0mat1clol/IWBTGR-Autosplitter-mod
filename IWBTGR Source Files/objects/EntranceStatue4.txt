@@ -1,0 +1,7 @@
+sprite=sprEntrance4
+visible=1
+solid=0
+persistent=0
+depth=1104
+parent=EntranceParent
+mask=

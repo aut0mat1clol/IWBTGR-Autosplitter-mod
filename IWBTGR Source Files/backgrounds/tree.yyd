@@ -1,0 +1,63 @@
+|tileMaster
++Intro
+	|bgTitle
+	|bgTitleSwag
+	|bgLoader
+	|bgStory1
+	|bgStory2
++Backgrounds
+	|bgSkyGuy1
+	|bgSkyFactory
+	|bgMegaman
+	|bgFortress
+	|bgZelda
+	|bgHomeCollege
+	|bgDracula
+	|bgEntrance1
+	|bgEntrance2
+	|bgEntrance3
+	|bgEntrance4
+	|bgSkyMechaBirdo
+	|bgCartParallax1
+	|bgCartParallax2
+	|bgCartParallax3
+	|bgCartParallax4
+	|bgEndingGradient
+	|bgDev
++Paintings
+	|bgXPainting
+	|bgVicPainting
+	|bgGrandPainting
+	|bgBowserPainting
+	|bgRyuPainting
+	|bgSinistarPainting
+	|bgGuyPainting
+	|bgHigginsPainting
+	|bgHarryPainting
+	|bgScroogePainting
+	|bgHaggarPainting
+	|bgKarnovPainting
+	|bgLuBuPainting
+	|bgKenshiroPainting
+	|bgBossPainting
+	|bgBisonPainting
+	|bgRenexPainting
+	|bgKayinPainting
+	|bgFlooglePainting
+	|bgRenkoPainting
+	|bgOwataPainting
++Decorations
+	|bgBroccoli
+	|bgKraidgiefBroccoli
+	|bgBigBroccoli
+	|bgBigBlackBroccoli
+	|bgGlassWindow
+	|bgChildren
+	|bgBrokenGlass
+	|bgDeadGuyBlood
+	|bgTexBallSpec
++Message Box
+	|bgMessageXP
+	|bgMessageXPXP
+	|bgMessageWin7
+	|bgMessageWin8

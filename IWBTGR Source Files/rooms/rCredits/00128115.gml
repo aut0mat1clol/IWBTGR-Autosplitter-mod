@@ -1,0 +1,1 @@
+str="- Guy Industries Tower -"

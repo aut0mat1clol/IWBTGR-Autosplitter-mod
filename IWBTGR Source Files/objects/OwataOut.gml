@@ -1,0 +1,17 @@
+#define Create_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=603
+applies_to=self
+*/
+image_speed=0
+alarm[0]=8
+play_sound("mmout")
+#define Alarm_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=603
+applies_to=self
+*/
+vspeed=-16
+image_index=1

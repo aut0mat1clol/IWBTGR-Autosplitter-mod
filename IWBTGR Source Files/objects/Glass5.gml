@@ -1,0 +1,7 @@
+#define Create_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=603
+applies_to=self
+*/
+direction=mmf_direction(choose(21,22,23,25,27,28))

@@ -1,0 +1,13 @@
+#define Draw_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=603
+applies_to=self
+*/
+draw_circle_color(floor(x),floor(y),115,0,0,0)
+draw_circle_color(floor(x),floor(y),110,$ffffff,$ffffff,0)
+draw_set_blend_mode(bm_subtract)
+draw_sprite_ext(sprite_index,image_index,floor(x)+lengthdir_x(-0.5,image_angle)+lengthdir_x(-0.5,image_angle-90),floor(y)+lengthdir_y(-0.5,image_angle)+lengthdir_y(-0.5,image_angle-90),3,3,image_angle,$ffffff,1)
+draw_set_blend_mode_ext(10,1)
+draw_circle_color(floor(x),floor(y),110,$ffffff,$ffffff,0)
+draw_set_blend_mode(0)

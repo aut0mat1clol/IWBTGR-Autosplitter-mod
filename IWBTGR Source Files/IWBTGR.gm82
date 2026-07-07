@@ -1,0 +1,23 @@
+gm82_version=5
+gameid=20071005
+
+info_author=Kayin
+info_version=1.0.0 B2.4
+info_information=
+
+exe_company=
+exe_product=
+exe_copyright=
+exe_description=I Wanna Be The Guy: Remastered v1.5.3
+exe_version=1.5.3.0
+
+has_backgrounds=1
+has_datafiles=1
+has_fonts=1
+has_objects=1
+has_paths=1
+has_scripts=1
+has_sounds=0
+has_sprites=1
+has_timelines=0
+has_triggers=1

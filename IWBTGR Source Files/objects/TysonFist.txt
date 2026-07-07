@@ -1,0 +1,7 @@
+sprite=sprTysonFist
+visible=0
+solid=0
+persistent=0
+depth=-15
+parent=playerKiller
+mask=

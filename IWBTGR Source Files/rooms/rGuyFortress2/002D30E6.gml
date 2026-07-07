@@ -1,0 +1,3 @@
+image_xscale=7
+image_yscale=16/32
+i=Higger

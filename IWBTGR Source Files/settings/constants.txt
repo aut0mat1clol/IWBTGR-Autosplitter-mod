@@ -1,0 +1,13 @@
+version="Ver 1.5.3 Remastered"
+title="I Wanna Be The Guy"
+key_up=0
+key_down=1
+key_left=2
+key_right=3
+key_jump=4
+key_shoot=5
+key_reset=6
+key_pause=7
+key_skip=8
+key_back=9
+onesecond=date_inc_second(0,-1)

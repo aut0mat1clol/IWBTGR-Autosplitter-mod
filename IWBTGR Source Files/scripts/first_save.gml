@@ -1,0 +1,1 @@
+if (!savedata("saved")) saveGame()

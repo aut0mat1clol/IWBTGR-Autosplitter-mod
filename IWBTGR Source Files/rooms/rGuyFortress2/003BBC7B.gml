@@ -1,0 +1,2 @@
+image_yscale=8
+i=rGuyFortress2_003970B7

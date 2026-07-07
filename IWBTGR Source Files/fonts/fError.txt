@@ -1,0 +1,8 @@
+name=Courier New
+size=10
+bold=0
+italic=0
+charset=0
+aa_level=0
+range_start=0
+range_end=255
