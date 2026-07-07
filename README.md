@@ -1,6 +1,6 @@
 # IWBTGR Autosplitter Mod
 
-A **modified build** of [I Wanna Be The Guy Remastered](https://delicious-fruit.com/view_game.php?id=106) (v1.5.3) with built-in autosplitter support for [LiveSplit](https://livesplit.org/).
+A **modified build** of [I Wanna Be The Guy Remastered](https://cherry-treehouse.itch.io/iwbtgr) (v1.5.3) with built-in autosplitter support for [LiveSplit](https://livesplit.org/).
 
 This repository contains:
 
