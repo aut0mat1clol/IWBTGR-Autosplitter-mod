@@ -142,14 +142,6 @@ rGuyTower
 rEnding
 ```
 
-Avoid these unless you specifically need them:
-
-```text
-rInit
-rTitle
-rFiles
-```
-
 ---
 
 ## How it works
