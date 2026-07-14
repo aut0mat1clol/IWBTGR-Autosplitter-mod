@@ -109,6 +109,12 @@ if (vuln && sprite_index!=sprGeyeSplat) {
                 with (GuyShot) instance_destroy()
                 with (GuyTooth) instance_destroy()
                 with (GuyPersistentFirePillar) instance_destroy()
+                // Fire the LiveSplit orb_guy split the instant the final eye is
+                // destroyed on the last stage (this block only runs once, when
+                // phase advances 2 -> 3). The savedata() hook writes the split on
+                // a 0->1 change, so unlock_ending() calling it again ~3:42 later
+                // in the credits is a no-op -> no double split.
+                savedata("orb_guy",1)
             }
         }
     }
