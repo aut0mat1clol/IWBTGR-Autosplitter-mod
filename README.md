@@ -80,8 +80,6 @@ orb_dracula       = split when Dracula is cleared / orb is awarded
 | `rGuyFortress2` | Guy Fortress 2 (after Labyrinth). |
 | `rGuyTower` | Final tower. |
 | `rGuyBoss` | The Guy boss room. Use `orb_guy` for the clear. |
-| `rEnding` | Ending sequence. |
-| `rCredits` | Credits. |
 
 ---
 
@@ -97,6 +95,8 @@ Usually do **not** use these for normal runs:
 | `rBossRush` | Boss Rush hub. |
 | `rDev` | Dev/secret room. |
 | `rUnlocks` | Unlock screen after ending. |
+| `rEnding` | Ending sequence. |
+| `rCredits` | Credits. |
 
 ---
 
